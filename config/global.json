@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "mobile"
+        }, 
+        "mobile": {
+            "applicationId": "9jh4AE4AlkBOwlQe5EfhEZJIetT32o8KSX6belTk", 
+            "masterKey": "mWNj7FgFCKgobmyCE76QmKKHIgtqPvGyDOVPwxiT"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.5"
+    }
+}
